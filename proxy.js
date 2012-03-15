@@ -4,7 +4,7 @@ var http = require('http'),
 var options = {
   router: {
     'letterpress.substance.io': '127.0.0.1:4004',
-    'substance.io': '127.0.0.1.com:3003'
+    'substance.io': '127.0.0.1:3003'
   }
 };
 
